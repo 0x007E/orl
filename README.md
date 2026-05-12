@@ -2,7 +2,7 @@
 
 # `ORL` - OR Logic Board
 
-The `ORL` is a board with an [CD4071](#additional-information) or any other 4-channel `OR` gate driver. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to `OR` signals from buttons, switches or any other logic board.
+The `ORL` is a board with an [CD4071](#additional-information) or any other 4-channel `OR` gate driver that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to `OR` signals from buttons, switches or any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
